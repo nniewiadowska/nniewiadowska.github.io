@@ -8,18 +8,12 @@ Jakieś linki:<br>
 [i gugl](https://www.google.com)
 <br>
 ## Jakaś tabelka
-
-<style>
-  {
-  background-color: pink;
-  }
   
 | liczba | lol | xd |
 | ---: | :---: | :--- |
 | 1 | dude | chill |
 | 2 | coś | tam |
 | 3 | help | me |
-</style>
   
 ## Słodki corgi
 
