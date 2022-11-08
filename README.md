@@ -19,6 +19,3 @@ Jakieś linki:<br>
 <br>
 ![y-tsui-QzSrKduMg7s-unsplash.jpg](y-tsui-QzSrKduMg7s-unsplash.jpg)
 
-<style>
-  table * {border: 1px solid black}
-</style>
