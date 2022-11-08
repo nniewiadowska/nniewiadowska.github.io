@@ -10,7 +10,7 @@ Jakieś linki:<br>
 ## Jakaś tabelka
 
 <style>
-  table {
+  {
   background-color: pink;
   }
   
