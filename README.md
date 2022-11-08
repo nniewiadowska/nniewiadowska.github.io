@@ -8,12 +8,14 @@ Jakieś linki:<br>
 [i gugl](https://www.google.com)
 <br>
 ## Jakaś tabelka
-  
+
+<center>
 | liczba | lol | xd |
 | ---: | :---: | :--- |
 | 1 | dude | chill |
 | 2 | coś | tam |
 | 3 | help | me |
+</center>  
   
 ## Słodki corgi
 
