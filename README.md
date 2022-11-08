@@ -16,11 +16,9 @@ Jakieś linki:<br>
 | 3 | help | me |
 <br>
 ## Słodki corgi
-
+<br>
 ![y-tsui-QzSrKduMg7s-unsplash.jpg](y-tsui-QzSrKduMg7s-unsplash.jpg)
 
-<table style="background color: pink">
-| druga | tabela |
-| --- | --- |
-| a | b |
-</table>
+<style>
+  table * {border: 1px solid black}
+</style>
