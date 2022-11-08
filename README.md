@@ -9,12 +9,18 @@ Jakieś linki:<br>
 <br>
 ## Jakaś tabelka
 
+<style>
+  table {
+  background-color: pink;
+  }
+  
 | liczba | lol | xd |
 | ---: | :---: | :--- |
 | 1 | dude | chill |
 | 2 | coś | tam |
 | 3 | help | me |
-
+</style>
+  
 ## Słodki corgi
 
 patrzcie i podziwiajcie
