@@ -16,6 +16,6 @@ Jakieś linki:<br>
 | 3 | help | me |
 <br>
 ## Słodki corgi
-<br>
+
 ![y-tsui-QzSrKduMg7s-unsplash.jpg](y-tsui-QzSrKduMg7s-unsplash.jpg)
 
