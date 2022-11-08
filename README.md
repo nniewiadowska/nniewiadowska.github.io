@@ -17,5 +17,7 @@ Jakieś linki:<br>
 <br>
 ## Słodki corgi
 
+patrzcie i podziwiajcie
+
 ![y-tsui-QzSrKduMg7s-unsplash.jpg](y-tsui-QzSrKduMg7s-unsplash.jpg)
 
