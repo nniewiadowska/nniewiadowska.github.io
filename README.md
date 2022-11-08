@@ -14,7 +14,7 @@ Jakieś linki:<br>
 | 1 | dude | chill |
 | 2 | coś | tam |
 | 3 | help | me |
-<br>
+
 ## Słodki corgi
 
 patrzcie i podziwiajcie
