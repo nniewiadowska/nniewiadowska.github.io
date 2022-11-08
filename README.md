@@ -15,4 +15,12 @@ Jakieś linki:<br>
 | 2 | coś | tam |
 | 3 | help | me |
 <br>
-# Słodki corgi
+## Słodki corgi
+
+![y-tsui-QzSrKduMg7s-unsplash.jpg](y-tsui-QzSrKduMg7s-unsplash.jpg)
+
+<table style="background color: pink">
+| druga | tabela |
+| --- | --- |
+| a | b |
+</table>
